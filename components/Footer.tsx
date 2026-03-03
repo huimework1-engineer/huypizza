@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
                 alt="Logo TPC"
                 className="h-10 w-auto"
               />
-              <span className="font-extrabold text-green-800 text-lg tracking-tighter">
+              <span className="font-extrabold text-green-800 text-lg">
                 THE PIZZA <span className="text-red-600">COMPANY</span>
               </span>
             </div>

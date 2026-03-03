@@ -3,7 +3,7 @@ import React from 'react';
 
 const Hero: React.FC = () => {
   return (
-    <section id="hero" className="relative pt-24 pb-16 md:pt-40 md:pb-32 overflow-hidden">
+    <section id="hero" className="relative pt-12 pb-16 md:pt-20 md:pb-32 overflow-hidden">
       {/* Background Decorative Elements */}
       <div className="absolute top-0 right-0 -z-10 w-1/2 h-full bg-gradient-to-l from-green-50 to-transparent opacity-50" />
       <div className="absolute top-20 right-10 -z-10 opacity-10 animate-pulse">
